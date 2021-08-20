@@ -264,14 +264,14 @@
                   </div>
                 </div>
               </div>
-              {{-- <ul class="outer-nav">
+              <ul class="outer-nav">
                 <li class="is-active">Home</li>
                 <li>Works</li>
                 <li>About</li>
                 <li>Contact</li>
                 <li>Hire us</li>
               </ul>
-            </div> --}}
+            </div>
 
 
  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
