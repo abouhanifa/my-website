@@ -8,6 +8,8 @@
       <meta name="description" content="Portoflio">
       <meta name="keywords" content="global, template, html, sass, jquery">
       <meta name="author" content="Abouhanifa abdellah">
+      <link rel="stylesheet" href="{{asset('/css/main.css')}}">
+      {{-- C:\laragonjded\www\portfolio-website\resources\css\main.css --}}
 </head>
 <body>
     <div class="device-notification">
