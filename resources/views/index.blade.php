@@ -57,7 +57,7 @@
                         </svg>
                         <span class="btn-background"></span>
                       </button>
-                      <img src="assets/img/introduction-visual.png" alt="Welcome">
+                      <img src="{{ asset('img/introduction-visual.png')}}" alt="Welcome">
                     </div>
                     <div class="intro--options">
                       <a href="#0">
@@ -84,7 +84,7 @@
                           <li class="slider--item slider--item-left">
                             <a href="#0">
                               <div class="slider--item-image">
-                                <img src="assets/img/work-victory.jpg" alt="Victory">
+                                <img src="{{asset('img/work-victory.jpg')}}" alt="Victory">
                               </div>
                               <p class="slider--item-title">Victory</p>
                               <p class="slider--item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do.</p>
@@ -93,7 +93,7 @@
                           <li class="slider--item slider--item-center">
                             <a href="#0">
                               <div class="slider--item-image">
-                                <img src="assets/img/work-metiew-smith.jpg" alt="Metiew and Smith">
+                                <img src="{{asset('img/work-metiew-smith.jpg')}}" alt="Metiew and Smith">
                               </div>
                               <p class="slider--item-title">Metiew &amp; Smith</p>
                               <p class="slider--item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do.</p>
@@ -102,7 +102,7 @@
                           <li class="slider--item slider--item-right">
                             <a href="#0">
                               <div class="slider--item-image">
-                                <img src="assets/img/work-alex-nowak.jpg" alt="Alex Nowak">
+                                <img src="{{asset('img/work-alex-nowak.jpg')}}" alt="Alex Nowak">
                               </div>
                               <p class="slider--item-title">Alex Nowak</p>
                               <p class="slider--item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do.</p>
@@ -142,7 +142,7 @@
                                 </svg>
                               </span>
                             </a>
-                            <img src="assets/img/about-visual.png" alt="About Us">
+                            <img src="{{asset('img/about-visual.png')}}" alt="About Us">
                           </div>
                           <div class="about--options">
                             <a href="#0">
@@ -163,13 +163,13 @@
                             <div class="modal">
                               <div class="modal--information">
                                 <p>Pawia 5, 31-154 Kraków, Poland</p>
-                                <a href="mailto:ouremail@gmail.com">ouremail@gmail.com</a>
-                                <a href="tel:+148126287560">+48 12 628 75 60</a>
+                                <a href="mailto:abdellahabouhanifa@gmail.com">abdellahabouhanifa@gmail.com</a>
+                                <a href="tel:+3456987452265666">+48 12 628 75 60</a>
                               </div>
                               <ul class="modal--options">
                                 <li><a href="#0">Bēhance</a></li>
                                 <li><a href="#0">dribbble</a></li>
-                                <li><a href="mailto:ouremail@gmail.com">Contact Us</a></li>
+                                <li><a href="mailto:abdellahabouhanifa@gmail.com">Contact Us</a></li>
                               </ul>
                             </div>
                           </div>
