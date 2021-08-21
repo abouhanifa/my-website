@@ -61,8 +61,8 @@
                     </div>
                     <div class="intro--options">
                       <a href="#0">
-                        <h3>Abouhanifa &amp; abdellah</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do.</p>
+                        <h3>Software Engineer </h3>
+                        <p>on web ecosystem, graduated with a Master's degree specialised in Computer System Engineering.</p>
                       </a>
                       <a href="#0">
                         <h3>Fantasy interactive</h3>
@@ -162,7 +162,7 @@
                           <div class="contact--lockup">
                             <div class="modal">
                               <div class="modal--information">
-                                <p>Pawia 5, 31-154 Kraków, Poland</p>
+                                <p>116 rue eugène jacquet 59800 Lille</p>
                                 <a href="mailto:abdellahabouhanifa@gmail.com">abdellahabouhanifa@gmail.com</a>
                                 <a href="tel:+3456987452265666">+48 12 628 75 60</a>
                               </div>
