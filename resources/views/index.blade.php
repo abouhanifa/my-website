@@ -87,7 +87,7 @@
                           <li class="slider--item slider--item-left">
                             <a href="#0">
                               <div class="slider--item-image">
-                                <img src="{{asset('img/work-victory.jpg')}}" alt="Victory">
+                                <img src="{{asset('img/slider1.jpg')}}" alt="Victory">
                               </div>
                               <p class="slider--item-title">fake work </p>
                               <p class="slider--item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do.</p>
@@ -96,7 +96,7 @@
                           <li class="slider--item slider--item-center">
                             <a href="#0">
                               <div class="slider--item-image">
-                                <img src="{{asset('img/work-metiew-smith.jpg')}}" alt="Metiew and Smith">
+                                <img src="{{asset('img/slider2.jpg')}}" alt="">
                               </div>
                               <p class="slider--item-title">fake work</p>
                               <p class="slider--item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do.</p>
@@ -105,7 +105,7 @@
                           <li class="slider--item slider--item-right">
                             <a href="#0">
                               <div class="slider--item-image">
-                                <img src="{{asset('img/work-alex-nowak.jpg')}}" alt="Alex Nowak">
+                                <img src="{{asset('img/slider3.jpg')}}" alt="Alex Nowak">
                               </div>
                               <p class="slider--item-title">fake work</p>
                               <p class="slider--item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do.</p>
