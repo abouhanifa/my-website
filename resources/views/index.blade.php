@@ -170,8 +170,8 @@
                                 <a href="tel:+3456987452265666">+48 12 628 75 60</a>
                               </div>
                               <ul class="modal--options">
-                                <li><a href="#0">Bēhance</a></li>
-                                <li><a href="#0">dribbble</a></li>
+                                <li><a href="#0">Linkedin</a></li>
+                                <li><a href="#0">Github</a></li>
                                 <li><a href="mailto:abdellahabouhanifa@gmail.com">Contact Us</a></li>
                               </ul>
                             </div>
