@@ -16,7 +16,6 @@
           <img src="{{asset('img/logo.png')}}"  alt="ABouhanifa abdelah">
 
         </a>
-        <p class="device-notification--message">Global has so much to offer that we must request you orient your device to portrait or find a larger screen. You won't be disappointed.</p>
       </div>
 
       <div class="perspective effect-rotate-left">
