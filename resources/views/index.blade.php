@@ -62,15 +62,18 @@
                     <div class="intro--options">
                       <a href="#0">
                         <h3>Software Engineer </h3>
-                        <p>on web ecosystem, graduated with a Master's degree specialised in Computer System Engineering.</p>
+                        <p>on web ecosystem, I study in Master 1 ingénierie informatique et innovation.</p>
                       </a>
                       <a href="#0">
-                        <h3>Fantasy interactive</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do.</p>
+                        <h3>I am curious and passionate </h3>
+                        <p>about new technologies.
+                            I offer a quality web service, while respecting current web standards.</p>
                       </a>
                       <a href="#0">
-                        <h3>Paul &amp; shark</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do.</p>
+                        <h3>Interested in working together? </h3>
+                        <p>
+                            We should queue up a chat.
+                            I’ll buy the coffee. </p>
                       </a>
                     </div>
                   </div>
