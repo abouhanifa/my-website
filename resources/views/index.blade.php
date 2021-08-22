@@ -6,10 +6,9 @@
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="description" content="Portoflio">
-      <meta name="keywords" content="global, template, html, sass, jquery">
+      <meta name="keywords" content="Abouhanifa abdellah, Portfolio, html, sass, jquery, laravel,website">
       <meta name="author" content="Abouhanifa abdellah">
       <link rel="stylesheet" href="{{asset('/css/main.css')}}">
-      {{-- C:\laragonjded\www\portfolio-website\resources\css\main.css --}}
 </head>
 <body>
     <div class="device-notification">
