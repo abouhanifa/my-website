@@ -6,7 +6,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="description" content="Portoflio">
-      <meta name="keywords" content="Abouhanifa abdellah, Portfolio, html, sass, jquery, laravel,website">
+      <meta name="keywords" content="Abouhanifa abdellah, Portfolio, html, sass, jquery, laravel">
       <meta name="author" content="Abouhanifa abdellah">
       <link rel="stylesheet" href="{{asset('/css/main.css')}}">
 </head>
@@ -16,6 +16,7 @@
           <img src="{{asset('img/logo.png')}}"  alt="ABouhanifa abdelah">
 
         </a>
+        <p class="device-notification--message">Global has so much to offer that we must request you orient your device to portrait or find a larger screen. You won't be disappointed.</p>
       </div>
 
       <div class="perspective effect-rotate-left">
@@ -165,11 +166,11 @@
                               <div class="modal--information">
                                 <p>116 rue eugène jacquet 59800 Lille</p>
                                 <a href="mailto:abdellahabouhanifa@gmail.com">abdellahabouhanifa@gmail.com</a>
-                                <a href="tel:+3456987452265666">+48 12 628 75 60</a>
+                                <a href="tel:+336 99 348 254">+336 99 348 254</a>
                               </div>
                               <ul class="modal--options">
-                                <li><a href="#0">Linkedin</a></li>
-                                <li><a href="#0">Github</a></li>
+                                <li><a href="https://github.com/abouhanifa">Linkedin</a></li>
+                                <li><a href="https://www.linkedin.com/in/abdellah-abouhanifa-a06397139/">Github</a></li>
                                 <li><a href="mailto:abdellahabouhanifa@gmail.com">Contact Us</a></li>
                               </ul>
                             </div>
